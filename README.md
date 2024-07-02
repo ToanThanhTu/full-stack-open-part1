@@ -1,5 +1,7 @@
 # Full Stack Open Part 1 Exercises
-by Thanh Toan Tu
+By Thanh Toan Tu
+
+Comprised of 3 small projects: `courseinfo`, `unicafe` and `anecdotes`.
 
 ## Repository Structure
 ```
